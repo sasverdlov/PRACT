@@ -13,4 +13,4 @@ $$
 
 См. Z scores для наглядности распределения Z-оценки по стандартному нормальному распределению.
 
-![[Grading methods in a bell-curve distribution.png]]
+![Grading methods in a bell-curve distribution](Grading%20methods%20in%20a%20bell-curve%20distribution.png)
